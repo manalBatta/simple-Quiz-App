@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  background-color: #007bff;
+  padding: 10px;
+  justify-content: center;
+}
+
+.nav-item {
+  color: white;
+  margin-right: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.nav-item.active {
+  background-color: #0056b3;
+  font-weight: bold;
+}

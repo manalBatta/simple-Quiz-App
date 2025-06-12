@@ -1,0 +1,80 @@
+[
+  {
+    "id": 2,
+    "question": "What is the capital of France if you know?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Lisbon"
+    ],
+    "correct": "Paris",
+    "difficulty": "Easy",
+    "category": "Geography"
+  },
+  {
+    "id": 3,
+    "question": "What is the square root of 49?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": "7",
+    "difficulty": "Medium",
+    "category": "Math"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correct": "William Shakespeare",
+    "difficulty": "Medium",
+    "category": "Literature"
+  },
+  {
+    "id": 5,
+    "question": "What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "correct": "cos(x)",
+    "difficulty": "Hard",
+    "category": "Math"
+  },
+  {
+    "id": 6,
+    "question": "In what year did the French Revolution begin?",
+    "options": [
+      "1789",
+      "1776",
+      "1804",
+      "1812"
+    ],
+    "correct": "1789",
+    "difficulty": "Hard",
+    "category": "History"
+  },
+  {
+    "id": 1747722937040,
+    "question": "What is 2 + 2?",
+    "options": [
+      "1",
+      "23",
+      "45",
+      "6"
+    ],
+    "correct": "6",
+    "difficulty": "Easy",
+    "category": "Math"
+  }
+]
